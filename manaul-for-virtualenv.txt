@@ -1,0 +1,10 @@
+pip install virtualenv
+
+virtualenv "nameofenv" :  virtual environment needs to be created in the same directory where your app files are located.
+i.e virtualenv virtual
+
+
+
+cmd on folder : virtual\Scripts\activate
+
+pip install flask
