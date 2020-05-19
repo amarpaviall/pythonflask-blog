@@ -1,2 +1,2 @@
 # pythonflask-webapplication
-Create Blog using flask framework
+Create web application using flask framework
